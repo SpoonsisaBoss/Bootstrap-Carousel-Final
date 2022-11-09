@@ -1,0 +1,51 @@
+h3{
+    text-align: center;
+}
+
+.carousel-inner{
+  width:65% !important;
+  margin:auto;
+  border: 3px solid darkred;
+}
+    
+
+img{
+    width:100%;
+    height:750px;
+}
+
+.nxt, .prv{
+    background-color: #000;
+}
+
+#title{
+    color: brown;
+}
+
+#navtitle{
+    color:firebrick;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+h5{
+    font-size: 30px;
+    color:yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: rgb(255, 255, 119);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#big{
+    color: yellow;
+    background-color: firebrick;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:7px;
+    width:300px;
+    margin-left:42%;
+}
